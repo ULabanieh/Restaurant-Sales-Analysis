@@ -28,6 +28,7 @@ ORDER BY total_amount DESC;
 ```
 
 Output:
+
 ![1](https://github.com/user-attachments/assets/4c1a3ca4-b4cb-48bd-bef1-4ef62767354b)
 
 -  Identify **low-performing menu items** by calculating the total quantity sold for each item.  
@@ -39,6 +40,7 @@ ORDER BY total_quantity_sold DESC;
 ```
 
 Output:
+
 ![2](https://github.com/user-attachments/assets/4f73832f-3917-49d3-9f9b-43791b1d7183)
 
 # Data Cleaning and Transformation
