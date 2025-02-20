@@ -1,4 +1,4 @@
-# Project Overview
+# 🍟 Project Overview
 ---
 A restaurant wants to **understand order patterns** to optimize menu pricing. The restaurant's name is Balaji and it specializes in Indian fast food. This project mostly focuses on Exploratory Data Analysis and Data Cleaning using Excel and SQL. 
 
