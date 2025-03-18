@@ -81,7 +81,7 @@ The dataset includes data from April 2022 to March 2023 which is approximately a
 - Sales in Q1 2023 are higher than the majority of the 2022 period
 - Lowest records of sales are in April, June and September 2022
 - There is no apparent seasonality as the increases of sales are on specific months and do not necessarily extend into longer periods or seasons such as winter or spring. 
-- Sales did not drop below 20.000 since September 2022 (6 months)
+- Sales did not drop below 20.000 since October 2022 (6 months)
 
 ![chart 2](https://github.com/user-attachments/assets/e30f93f9-338c-4fb2-9c49-bacbd74d777d)
 
